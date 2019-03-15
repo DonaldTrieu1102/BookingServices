@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [14/Mar/2019:23:51:38 +0700] "GET /BookingServices/hello HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [14/Mar/2019:23:52:02 +0700] "GET //BookingSevices HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [14/Mar/2019:23:52:03 +0700] "GET /BookingSevices/ HTTP/1.1" 200 57 http-bio-8080-exec-5 912
+0:0:0:0:0:0:0:1 - - [14/Mar/2019:23:52:03 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [14/Mar/2019:23:52:15 +0700] "GET /BookingSevices/hello HTTP/1.1" 200 152 http-bio-8080-exec-7 178
+0:0:0:0:0:0:0:1 - - [14/Mar/2019:23:52:20 +0700] "GET /BookingSevices HTTP/1.1" 302 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [14/Mar/2019:23:52:20 +0700] "GET /BookingSevices/ HTTP/1.1" 200 57 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [14/Mar/2019:23:52:25 +0700] "GET /BookingSevices/hello HTTP/1.1" 200 152 http-bio-8080-exec-10 5
